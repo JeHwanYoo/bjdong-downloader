@@ -1,6 +1,6 @@
 # bjdong-downloader
 
-[행정표준코드관리시스템 - 법정동코드목록조회](https://www.code.go.kr/stdcode/regCodeL.do)
+출처 - [행정표준코드관리시스템](https://www.code.go.kr/etc/index_iframe.do)
 
 ## Abstract
     bjdong.sh - 행정표준관리시스템에서 법정동 코드와 법정동 이름을 불러오는 스크립트
